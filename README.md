@@ -23,9 +23,10 @@ Getting Started:
 - Open your browser and navigate to http://localhost:3000 to view the app.
 
 Preview:
-![Screenshot (1191)](https://github.com/user-attachments/assets/f24598e0-5457-4188-b828-9b9d5c7e35a9)
-![Screenshot (1193)](https://github.com/user-attachments/assets/472e3bad-cba2-4a2b-8f75-c8666620c9bc)
-![Screenshot (1192)](https://github.com/user-attachments/assets/e2c85b63-9744-4eaa-b627-0a1e83042dc7)
+![Screenshot 2024-07-14 111737](https://github.com/user-attachments/assets/8ac33812-d92b-4ff3-8e51-c2a76655c50d)
+![Screenshot 2024-07-14 111723](https://github.com/user-attachments/assets/164a840e-6802-4275-8fd9-43ef90b17bf1)
+![Screenshot 2024-07-14 111706](https://github.com/user-attachments/assets/7aeb0437-8a6d-444d-a77d-48cd68d81fc7)
+
 
 
 
