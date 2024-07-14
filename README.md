@@ -1,6 +1,6 @@
 # weather_App
 
-Description : This is a  weather application built using React.js. It allows users to input a city name and fetches real-time weather data from the WeatherAPI. The application displays the current temperature, humidity, wind speed, and weather condition of the specified city.
+Description : This is a  weather application built using React.js. It allows users to input a city name and fetches real-time weather data from the WeatherAPI. The application displays the current temperature , hourly forecast and weather condition of the specified city.
 
 Tech Stack:
 -  React: Frontend framework for building user interfaces.
