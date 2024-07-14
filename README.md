@@ -23,8 +23,9 @@ Getting Started:
 - Open your browser and navigate to http://localhost:3000 to view the app.
 
 Preview:
-![Screenshot 2024-04-27 114320](https://github.com/ShudhanshuShekhar123/weather_App/assets/115460439/2c2faff7-acba-4cea-a321-3ddcf03349c6)
-![Screenshot 2024-04-27 114337](https://github.com/ShudhanshuShekhar123/weather_App/assets/115460439/91ddc934-7904-47ed-9fb6-f2cc4b5f4617)
-![Screenshot 2024-04-27 114356](https://github.com/ShudhanshuShekhar123/weather_App/assets/115460439/33453e4e-8c8a-4623-ae43-45e4b5c349dd)
+![Screenshot (1193)](https://github.com/user-attachments/assets/9fe666e0-871d-41d5-ab73-98b878a7d5d2)
+![Screenshot (1191)](https://github.com/user-attachments/assets/00c11d04-ffae-40b3-87be-de7637db0eae)
+![Screenshot (1192)](https://github.com/user-attachments/assets/ef94e9af-5d06-4bbf-b8ec-488804921628)
+
 
 
